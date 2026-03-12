@@ -1,7 +1,0 @@
-# Project Abstract
-
-The Digital Content Safety Filter is a deep learning based system designed to detect harmful or unsafe visual content online.
-
-The system analyzes images using a classification model and identifies unsafe content such as violence or explicit imagery.
-
-The model is evaluated using a confusion matrix and fine-tuned to achieve a validation accuracy of 0.97 before deployment.
