@@ -1,0 +1,10 @@
+path: ./master_yolo_data
+
+train: train/images
+val: train/images
+
+nc: 2
+
+names:
+  0: safe
+  1: unsafesssssss
